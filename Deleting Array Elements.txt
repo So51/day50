@@ -1,0 +1,5 @@
+var numbers = [];
+numbers [0] = "Zero";
+numbers [1] = "One ";
+delete numbers [1];
+document.write (numbers);
